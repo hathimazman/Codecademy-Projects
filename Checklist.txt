@@ -1,0 +1,6 @@
+Belum buat lagi
+1. Airline Analysis
+2. Coded Correspondence
+3. EDA Diagnosing Diabetes
+4. Product Defects
+5. Summarizing Automobile Data

@@ -1,0 +1,30 @@
+# This is a compilation of mini-projects done under Codecademy.
+
+## Projects
+1. Biodiversity
+2. Developer Dataset
+3. Roller Coaster
+
+## Basic Python
+1. EDA Diagnosing Diabetes
+2. Summarizing Automobile Data
+3. Fridakahlo
+4. Hurricane Project
+
+## Statistics / Visualization
+1. Airline Analysis
+2. Coded Correspondence
+3. Product Defects
+4. Food Wheel
+5. Life expectancy
+6. Orion
+7. Reggie Linear Regression
+
+## Web Scraping
+1. Chocolate Scarping with Beautiful Soup
+
+## Data Cleaning
+1. Cleaning US Census Data
+
+
+
